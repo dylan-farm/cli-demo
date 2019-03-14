@@ -1,8 +1,11 @@
 {
   "name": "daly-cli-demo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cli-demo",
   "main": "index.js",
+  "bin": {
+    "daly-cli": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
