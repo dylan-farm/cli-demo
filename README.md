@@ -19,4 +19,4 @@ npm install -g daly-cli-demo
 daly-cli <name> <repo>
 ```
 - name：自定义项目名称
-- repo：选择想要下载的仓储，默认为【taro-dva】
+- repo：选择想要下载的仓储，默认为【taro-dva】
