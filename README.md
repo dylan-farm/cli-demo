@@ -1,6 +1,6 @@
 # 项目集合<脚手架模版>
 
-###目前本脚手架支持的项目：
+### 目前本脚手架支持的项目：
 
 - [taro-dva](https://github.com/dylan-farm/taro-dva)
 - [django-vue](https://github.com/dylan-farm/django-vue)
