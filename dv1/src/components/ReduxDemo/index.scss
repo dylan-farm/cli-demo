@@ -1,0 +1,10 @@
+@import "../../assets/sass/style";
+
+.home {
+  font-size: 26px;
+  line-height: 50px;
+  &:hover {
+    background: #31b0d5;
+    color: #ffffff;
+  }
+}
